@@ -1,4 +1,2 @@
-coq-red-css
-===========
-
-A red CSS for Coq.
+# Red CSS
+A red CSS for Coq based on Bootstrap.
