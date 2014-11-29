@@ -2,7 +2,7 @@
 A red CSS for Coq based on Bootstrap.
 
 ## Build
-In root:
+In root (we use Docker):
 
     make
 
